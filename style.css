@@ -1,0 +1,171 @@
+
+
+th, td, a {
+    
+    display: flex;
+   
+    flex-direction: column;
+   
+    color: black;
+    text-decoration: none;
+    text-align: center;
+    align-items: center;
+    
+  }
+
+  body {
+   
+    text-align: center;
+    background-image: url(Images/background1.jpg);
+
+  }
+
+  .Cent {
+    text-align: center;
+    border-width: 10px;
+    border-style: solid ;
+    border-color: rgba(39, 63, 143, 0.562);
+    background-color: #3b2205fd;
+    
+    
+    font-size: 20px;
+    color: white;
+    margin: 0px;
+    border-radius: 20px;
+    padding: 20px;
+  
+
+  }
+
+  .Life {
+
+    border: solid;
+    background-color: whitesmoke;
+    border-radius: 50px;
+  }
+
+  .Teen {
+
+    
+    border: solid;
+    background-color: whitesmoke;
+    border-radius: 50px;
+  }
+
+  .adult {
+
+    
+    border: solid;
+    background-color: whitesmoke;
+    border-radius: 50px;
+  }
+
+  .inside1 {
+
+    
+    border: solid;
+    background-color: whitesmoke;
+    border-radius: 50px;
+  }
+
+  .outside {
+
+    
+    border: solid;
+    background-color: whitesmoke;
+    border-radius: 50px;
+  }
+
+  .Favfood {
+
+    
+    border: solid;
+    background-color: whitesmoke;
+    border-radius: 50px;
+  }
+
+  .view {
+
+    
+    border: solid;
+    background-color: whitesmoke;
+    border-radius: 50px;
+  }
+
+  .circfriends {
+
+    
+    border: solid;
+    background-color: whitesmoke;
+    border-radius: 50px;
+  }
+
+  .last {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 300px;
+    border: solid;
+    background-color: whitesmoke;
+    border-radius: 50px;
+  }
+
+  .back {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 200px;
+    height: 20px;
+    border: solid;
+    background-color: whitesmoke;
+    border-radius: 50px;
+  }
+
+
+  .flexx {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    
+    
+  }
+  
+  .me {
+
+    background-color: whitesmoke;
+    border: solid;
+    border-radius: 50px;
+
+  }
+
+
+
+  title {
+    margin-right: 0px;
+    margin-left: 0px;
+    display: flex;
+    justify-content: center;
+
+  }
+
+  .flexx ul {
+    
+    list-style-type: square;
+    
+    
+  }
+
+  #self{
+
+    display: inline;
+    padding: 50px;
+
+  }
+
+  li {
+   
+    text-decoration: none;
+    display: inline;
+
+  }
+  
